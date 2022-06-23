@@ -119,5 +119,6 @@ public class FinalReport {
         System.out.println(small);
       }
     }
+    myObjects.close();
   }
 }
