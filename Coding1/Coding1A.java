@@ -1,3 +1,5 @@
+// hsieh
+
 package Coding1;
 
 import java.util.Scanner;
@@ -17,6 +19,7 @@ public class Coding1A {
             oddSum.showAns(i);
         }
 
+        System.out.println("x");
         myObj.close();
     }
 }
