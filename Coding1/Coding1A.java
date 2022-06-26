@@ -19,7 +19,7 @@ public class Coding1A {
             oddSum.showAns(i);
         }
 
-        System.out.println("x");
+    
         myObj.close();
     }
 }
